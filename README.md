@@ -44,10 +44,10 @@ The following can be used as our rough roadmap until things become more concrete
 ### 💭 Design Philosophy
 
 - **The aesthetic of old CRT terminals, with a modern touch.**  
-   While not an attempt to totally recreate the experience of using a CRT terminal<sup><a href="#design-goal-fn1">[1]</a></sup>, the primary goal is to take the aesthetic of those terminals and derive a modern colorscheme from it. This means that the core color choice will be based around those classic ambers (and maybe greens eventually).
+   While not an attempt to totally recreate the experience of using a CRT terminal<sup><a href="#user-content-design-goal-fn1">[1]</a></sup>, the primary goal is to take the aesthetic of those terminals and derive a modern colorscheme from it. This means that the core color choice will be based around those classic ambers (and maybe greens eventually).
 
 - **Accessible, ergonomic, and therapeutic.**  
-   Phosphor aims to create color palettes that are accessible to those with low vision or colorblindness<sup><a href="#design-goal-fn2">[2]</a></sup> as well as one that's easy on the eyes, reducing the amount of blue light as much as possible. We're here for the engineers, designers, students, and whoever else uses screens for an extensive amount of time in a day, hoping to improve ocular health.
+   Phosphor aims to create color palettes that are accessible to those with low vision or colorblindness<sup><a href="#user-content-design-goal-fn2">[2]</a></sup> as well as one that's easy on the eyes, reducing the amount of blue light as much as possible. We're here for the engineers, designers, students, and whoever else uses screens for an extensive amount of time in a day, hoping to improve ocular health.
 
 <small><span id="design-goal-fn1">[1]</span>: See [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) for a project with those goals in mind.
 <br>
@@ -94,6 +94,14 @@ The following can be used as our rough roadmap until things become more concrete
         </tr>
     </table>
 </details>
+
+### ⚖️ License
+
+Phosphor is released under [Creative Commons Attribution 4.0 International](https://github.com/phosphortheme/phosphor/blob/main/LICENSE). You are generally free to do as you like, as long as credit (see copyright notice at the bottom) is given where necessary.
+
+### 🫂 Special Thanks
+
+- [Catppuccin](https://catppuccin.com) and [Nord](https://nordtheme.com) for Markdown inspirations.
 
 &nbsp;
 <hr>
