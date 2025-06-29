@@ -25,7 +25,7 @@ Phosphor is in its baby phases, with major design choices still being made and s
 The following can be used as our rough roadmap until things become more concrete:
 
 1. Implement Phosphor Dark Amber
-    - [ ] Establish core theme
+    - [x] Establish core theme
     - Ports
         1. [ ] .Xresources / kitty / alacritty
         2. [ ] Visual Studio Code
@@ -66,18 +66,81 @@ The following can be used as our rough roadmap until things become more concrete
             <th>HSL</th>
         </tr>
         <tr>
-            <td><span style="height: 23px;width: 23px;background-color: #452f00;border-radius: 50%;display: inline-block;"></span>
-            <td>bg</td>
-            <td><code>#452f00</code></td>
-            <td><code>rgb(69, 47, 0)</code></td>
-            <td><code>hsl(40.87, 100%, 13.53%)</code></td>
+            <td><span style="height: 23px;width: 23px;background-color: #2E2100;border-radius: 50%;display: inline-block;"></span>
+            <td>Black Swan (bg)</td>
+            <td><code>#2E2100</code></td>
+            <td><code>rgb(46, 33, 0)</code></td>
+            <td><code>hsl(43, 100%, 9%)</code></td>
         </tr>
         <tr>
-            <td><span style="height: 23px;width: 23px;background-color: #ffb700;border-radius: 50%;display: inline-block;"></span>
-            <td>fg</td>
-            <td><code>#ffb700</code></td>
+            <td><span style="height: 23px;width: 23px;background-color: #452F00;border-radius: 50%;display: inline-block;"></span>
+            <td>Night in the Woods</td>
+            <td><code>#452F00</code></td>
+            <td><code>rgb(69, 47, 0)</code></td>
+            <td><code>hsl(41, 100%, 14%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #634400;border-radius: 50%;display: inline-block;"></span>
+            <td>Notorious Neanderthal</td>
+            <td><code>#634400</code></td>
+            <td><code>rgb(99, 68, 0)</code></td>
+            <td><code>hsl(41, 100%, 19%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #FFACA5;border-radius: 50%;display: inline-block;"></span>
+            <td>Patient Pink</td>
+            <td><code>#FFACA5</code></td>
+            <td><code>rgb(255, 172, 165)</code></td>
+            <td><code>hsl(5, 100%, 82%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #00E05A;border-radius: 50%;display: inline-block;"></span>
+            <td>Malachite</td>
+            <td><code>#00E05A</code></td>
+            <td><code>rgb(0, 224, 90)</code></td>
+            <td><code>hsl(144, 100%, 44%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #EDED00;border-radius: 50%;display: inline-block;"></span>
+            <td>Saint Seiya Gold</td>
+            <td><code>#EDED00</code></td>
+            <td><code>rgb(237, 237, 0)</code></td>
+            <td><code>hsl(60, 100%, 46%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #00FAD2;border-radius: 50%;display: inline-block;"></span>
+            <td>Plunge Pool</td>
+            <td><code>#00FAD2</code></td>
+            <td><code>rgb(0, 250, 210)</code></td>
+            <td><code>hsl(170, 100%, 49%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #FF9FFF;border-radius: 50%;display: inline-block;"></span>
+            <td>Pinkalicious</td>
+            <td><code>#FF9FFF</code></td>
+            <td><code>rgb(255, 159, 255)</code></td>
+            <td><code>hsl(300, 100%, 81%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #00D2FF;border-radius: 50%;display: inline-block;"></span>
+            <td>Vivid Sky Blue</td>
+            <td><code>#00D2FF</code></td>
+            <td><code>rgb(0, 210, 255)</code></td>
+            <td><code>hsl(191, 100%, 50%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #D19200;border-radius: 50%;display: inline-block;"></span>
+            <td>Elysium Gold</td>
+            <td><code>#D19200</code></td>
+            <td><code>rgb(209, 146, 0)</code></td>
+            <td><code>hsl(42, 100%, 41%)</code></td>
+        </tr>
+        <tr>
+            <td><span style="height: 23px;width: 23px;background-color: #FFB700;border-radius: 50%;display: inline-block;"></span>
+            <td>Sunflower Mango (fg)</td>
+            <td><code>#FFB700</code></td>
             <td><code>rgb(255, 183, 0)</code></td>
-            <td><code>hsl(43.06, 100%, 50%)</code></td>
+            <td><code>hsl(43, 100%, 50%)</code></td>
         </tr>
     </table>
 </details>
